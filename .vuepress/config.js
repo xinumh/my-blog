@@ -36,16 +36,18 @@ module.exports = {
         "link": "/timeline/",
         "icon": "reco-date"
       },
-      // {
-      //   "text": "Tools",
-      //   "icon": "reco-message",
-      //   "items": [
-      //     {
-      //       "text": "vuepress-reco",
-      //       "link": "/docs/theme-reco/"
-      //     }
-      //   ]
-      // },
+      {
+        "text": "interview",
+        "icon": "reco-message",
+        "text": "interview",
+        "link": "/docs/interview/"
+        // "items": [
+        //   {
+        //     "text": "vuepress-reco",
+        //     "link": "/docs/theme-reco/"
+        //   }
+        // ]
+      },
       {
         "text": "Contact",
         "icon": "reco-message",
@@ -64,6 +66,11 @@ module.exports = {
         "theme",
         "plugin",
         "api"
+      ],
+      "/docs/interview/": [
+        "",
+        "react",
+        "vue"
       ]
     },
     "type": "blog",
