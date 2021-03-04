@@ -18,7 +18,12 @@ module.exports = {
       }
     ]
   ],
+  "plugins": ["@vuepress-reco/vuepress-plugin-comments"],
   "theme": "reco",
+  "valineConfig": {
+    "appId": '4bdlE4y8mrm2pTDmSOgqodVB-9Nh9j0Va',
+    "appKey": 'axmYEGbxc2y5kQ7SOSdXbXjA',
+  },
   "themeConfig": {
     "nav": [
       {
