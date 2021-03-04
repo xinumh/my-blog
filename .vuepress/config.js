@@ -98,7 +98,7 @@ module.exports = {
     "author": "xinumh",
     "authorAvatar": "/avatar.png",
     "record": "xxxx",
-    "startYear": "2017"
+    "startYear": "2020"
   },
   "markdown": {
     "lineNumbers": true

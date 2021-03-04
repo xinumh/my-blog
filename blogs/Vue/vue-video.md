@@ -1,6 +1,7 @@
 ---
 title: Vue中使用video.js和flv.js处理直播流
-date: 2018/12/15
+date: 2021-03-04
+sidebar: 'auto'
 tags:
  - Vue
  - video
