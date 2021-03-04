@@ -52,7 +52,7 @@ module.exports = {
         "items": [
           {
             "text": "GitHub",
-            "link": "https://github.com/recoluan",
+            "link": "https://github.com/xinumh",
             "icon": "reco-github"
           }
         ]
