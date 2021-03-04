@@ -1,7 +1,7 @@
 module.exports = {
   "title": "xxqw",
   "description": "",
-  "dest": "public",
+  "dest": "dist",
   "head": [
     [
       "link",
