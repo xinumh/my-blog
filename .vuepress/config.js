@@ -1,5 +1,5 @@
 module.exports = {
-  "title": "xxqw",
+  "title": "妖孽人生",
   "description": "",
   "dest": "dist",
   "head": [
@@ -37,7 +37,7 @@ module.exports = {
         "icon": "reco-date"
       },
       // {
-      //   "text": "Docs",
+      //   "text": "Tools",
       //   "icon": "reco-message",
       //   "items": [
       //     {
