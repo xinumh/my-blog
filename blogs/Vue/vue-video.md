@@ -3,10 +3,9 @@ title: Vue中使用video.js和flv.js处理直播流
 date: 2021-03-04
 sidebar: 'auto'
 tags:
- - Vue
- - video
+ - 笔记
 categories:
- - Vue
+ - 笔记
 ---
 
 > 支持hls、http-flv、rtmp（低版本chrome支持、高版本禁用了flash）

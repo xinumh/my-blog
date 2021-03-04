@@ -1,6 +1,6 @@
 ---
 home: true
-heroText: xin的博客
+heroText: 心有猛虎、细嗅蔷薇
 tagline: 每天进步一点点✨.
 # heroImage: /hero.png
 # heroImageStyle: {
@@ -12,7 +12,7 @@ tagline: 每天进步一点点✨.
 #   borderRadius: '1rem',
 # }
 bgImageStyle: {
-  height: '450px'
+  height: '600px'
 }
 isShowTitleInHome: false
 actionText: Guide
